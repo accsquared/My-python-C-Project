@@ -6,7 +6,7 @@ import json
 def NASA_api_setup():
     API_KeY = 'aWpeM64caG5zNZiWOVu4al9csjcFjVTUOCmDsJX5' 
     #(When adding to GITHUB get rid of API key and put a substitute)
-    NASA_URL = 'https://api.nasa.gov/neo/rest/v1/feed'
+    NASA_URL = '[Insert youf API key here'
     return API_KeY, NASA_URL #Returns the API Key and URL which will be used later on in the code
 
 # Part of the code that gets the asteroid data from the NASA API
