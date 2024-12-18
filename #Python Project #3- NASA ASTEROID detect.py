@@ -4,7 +4,7 @@ import json
 
 #Make sure to always add an endpoint when setting an API 
 def NASA_api_setup():
-    API_KeY = 'aWpeM64caG5zNZiWOVu4al9csjcFjVTUOCmDsJX5' 
+    API_KeY = 'insert your API key here' 
     #(When adding to GITHUB get rid of API key and put a substitute)
     NASA_URL = '[Insert youf API key here'
     return API_KeY, NASA_URL #Returns the API Key and URL which will be used later on in the code
